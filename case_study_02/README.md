@@ -16,7 +16,7 @@ Analizde 5 farklı veri tablosu kullanılmıştır:
 
 Proje 3 ana Jupyter Notebook'tan oluşmaktadır:
 
-### 1. `notebook_01_veri_hazirligi.ipynb` (Veri keşfi ve Betimsel İstatistik)
+### 1. `notebook_01_veri_kesfi.ipynb` (Veri keşfi ve Betimsel İstatistik)
 * Çoklu Excel sayfalarının yüklenmesi ve birleştirilmesi.
 * Eksik verilerin (Missing Values) analizi.
 * Aykırı değer analizi
